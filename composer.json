@@ -1,0 +1,15 @@
+{
+    "name": "sabas/geothing",
+    "description": "",
+    "require": {
+        "mikecao/flight": "^1.2",
+        "raveren/kint": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sabas",
+            "email": "sabas88@gmail.com"
+        }
+    ]
+}

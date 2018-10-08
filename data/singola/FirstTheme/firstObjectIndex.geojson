@@ -1,0 +1,23 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "tipo":"azione",
+            "nome":"First Action Name",
+            "luogo":"Place address",
+            "soggetti":"",
+            "tipologia":"Single event",
+            "ambito":"Description"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.9227564,
+                44.4156205
+            ]
+         }
+      }
+   ]
+}
